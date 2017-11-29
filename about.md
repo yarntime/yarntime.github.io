@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: 个人简介
 permalink: /about/
 ---
 
-Some information about you!
+天云软件架构师，专注于云计算、人工智能等技术的研究。
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### 联系方式
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[yarntime@163.com](mailto:email@domain.com)

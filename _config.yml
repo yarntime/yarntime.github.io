@@ -6,7 +6,7 @@
 name: yarntime
 
 # Short bio or description (displayed in the header)
-description: This is my personal blog
+description: Personal Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/yarntime/yarntime.github.io/master/images/me.jpg
@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/yarntime/yarntime.github.io/master/ima
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:  yarntime@163.com
   facebook:
   flickr:
   github: yarntime
