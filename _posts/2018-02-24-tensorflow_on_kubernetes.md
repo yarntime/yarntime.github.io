@@ -1,6 +1,6 @@
 ---
 layout: post
-title: tensorflow on kubernetes
+title: tensorflow on kubernetes演示
 ---
 
 tensorflow on kubernetes演示。
