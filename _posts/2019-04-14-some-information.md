@@ -1,3 +1,6 @@
+# 长期方向及参考资料
+
+
 online
 --
 1. https://nathanrooy.github.io/posts/2017-11-30/evolving-simple-organisms-using-a-genetic-algorithm-and-deep-learning/
@@ -9,6 +12,8 @@ online
 4. https://stats.stackexchange.com/questions/207450/in-neural-nets-why-use-gradient-methods-rather-than-other-metaheuristics
 
 5. https://stats.stackexchange.com/questions/235862/is-it-possible-to-train-a-neural-network-without-backpropagation?noredirect=1&lq=1
+
+6. https://www.researchgate.net/post/Why_is_back-propagation_still_used_extensively_to_train_ANN_while_it_is_beaten_by_GA
 
 codes
 --
@@ -27,3 +32,7 @@ papers
 1. Derivative-free optimization: a review of algorithms and comparison of software implementations
 
 2. Using genetic algorithm-back propagation neural network prediction and finite-element model simulation to optimize the process of multiple-step incremental air-bending forming of sheet metal
+
+3. Training Feedforward Neural Networks Using Genetic Algorithms 
+
+4. G-Prop-III: Global Optimization of Multilayer Perceptrons using an Evolutionary Algorithm
