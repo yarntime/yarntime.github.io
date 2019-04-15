@@ -15,6 +15,11 @@ online
 
 6. https://www.researchgate.net/post/Why_is_back-propagation_still_used_extensively_to_train_ANN_while_it_is_beaten_by_GA
 
+7. ** http://www.cs.ucf.edu/~kstanley/neat.html **
+
+8. ** https://eplex.cs.ucf.edu/hyperNEATpage/HyperNEAT.html **
+
+
 codes
 --
 
